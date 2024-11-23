@@ -1,0 +1,17 @@
+[package]
+name = "show-line-title"
+version = "0.1.0"
+edition = "2021"
+
+authors = ["fengjutian"]
+license = "MIT OR Apache-2.0"
+description = "A tool to search files"
+readme = "README.md"
+homepage = "https://github.com/fengjutian/show-line-title.git"
+repository = "https://github.com/fengjutian/show-line-title.git"
+keywords = ["cli", "search", "demo"]
+categories = ["command-line-utilities"]
+
+[dependencies]
+clap = { version = "4.0", features = ["derive"] }
+anyhow = "1.0"
