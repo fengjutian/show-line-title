@@ -3,7 +3,7 @@ name = "show-line-title"
 version = "0.1.0"
 edition = "2021"
 
-authors = ["2640111081@qq.com"]
+authors = ["fengjutian<2640111081@qq.com>"]
 license = "MIT OR Apache-2.0"
 description = "A tool to search files"
 readme = "README.md"
